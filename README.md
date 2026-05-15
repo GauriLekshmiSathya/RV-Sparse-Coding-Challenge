@@ -19,7 +19,7 @@ The sparse matrix is stored using three arrays:
 
 ## Parameters
 
-1. row: number of matrix rows
+1. rows: number of matrix rows
 2. cols: number of matrix columns
 3. A: input dense matrix (row-major)
 4. x: input vector
